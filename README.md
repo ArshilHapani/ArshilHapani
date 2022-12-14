@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArshilHapani
 - 👀 I’m interested in web designing and developing
-- 🌱 I’m currently learning java scripts faameworks. 
+- 🌱 I’m currently learning java scripts frameworks. 
 - 💞️ My Dream to learning fullstack web development
 - 📫 How to reach me -
     - Mail:arshilhapani998@gmail.com
