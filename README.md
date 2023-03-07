@@ -23,7 +23,7 @@
 
 <div align="left">
   <a target="_blank" href="https://www.instagram.com/invites/contact/?i=1q6rcduk43ki2&utm_content=3ergulk" >  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>   
-  <a target="_blank" href="https://www.instagram.com/invites/contact/?i=1q6rcduk43ki2&utm_content=3ergulk](https://www.linkedin.com/in/arshil-hapani-19b52a24a/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/arshil-hapani-19b52a24a/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
 ###
