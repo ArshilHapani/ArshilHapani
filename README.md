@@ -1,2 +1,15 @@
 
 <img src="https://res.cloudinary.com/dufjm5xsi/image/upload/v1686040409/Github_Cover_page_ibvrq1.png" height="450" width="1200" />
+
+<h3 align="center">Contact me through</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/arshil-hapani-19b52a24a/" target="_blank" >
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="60" alt="linkedin logo"  /></a>
+  <a href="https://twitter.com/HapaniArshil" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="72" height="60" alt="twitter logo"  /></a>
+  <a href="https://www.instagram.com/invites/contact/?i=1q6rcduk43ki2&utm_content=3ergulk" target="_blank" ><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="72" height="60" alt="instagram logo"  /></a>
+</div>
+
+###
