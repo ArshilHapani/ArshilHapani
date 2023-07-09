@@ -4,8 +4,6 @@
 
 <h3 align="center">Contact me through</h3>
 
-
-
 ###
 
 <div align="center">
