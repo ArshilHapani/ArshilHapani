@@ -9,7 +9,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/arshil-hapani-19b52a24a/" target="_blank" >
   <img style="pointer-events: none;" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="72" height="60" alt="linkedin logo"  /></a>
-  <a href="https://twitter.com/HapaniArshil" target="_blank"><img style="pointer-events: none;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ATwitter_new_X_logo.png&psig=AOvVaw2VBCOaf_Sqg4GE6mX0K5OM&ust=1700544175388000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjn6O3q0YIDFQAAAAAdAAAAABAS" width="72" height="60" alt="twitter logo"  /></a>
+  <a href="https://twitter.com/HapaniArshil" target="_blank"><img style="pointer-events: none;" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png?20230802142353" width="72" height="60" alt="twitter logo"  /></a>
   <a href="https://www.instagram.com/invites/contact/?i=1q6rcduk43ki2&utm_content=3ergulk" target="_blank" ><img style="pointer-events: none;" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="72" height="60" alt="instagram logo"  /></a>
 </div>
 
