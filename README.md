@@ -1,5 +1,5 @@
 
-![Arshil Hapani](https://res.cloudinary.com/dufjm5xsi/image/upload/v1687261965/Github_cover_image_vn9bhs.png)
+![Arshil Hapani](https://utfs.io/f/221fc0cb-f7b0-4da0-855c-50204f2b97a4-urgi6t.png)
 
 
 <h3 align="center" style="pointer-events: none;" >Contact me through</h3>
