@@ -10,6 +10,8 @@ Currently vibin’ with Web3, Solana, ZK chains, and **one piece**
 
 <img src="https://utfs.io/f/SBPlgACiEghfGSOupw9MDN2x9hCrHKFiyJB78s5n4gf3uPm1" align="right" />
 <br/>
+<br/>
+<br/>
 
 **Important links:**
 
@@ -17,6 +19,3 @@ Currently vibin’ with Web3, Solana, ZK chains, and **one piece**
 - [Linkedln](https://www.linkedin.com/in/arshil-hapani-19b52a24a)
 - [Portfolio](https://arshil.vercel.app)
 - Discord username: `arshil3803`
-
-# Have a good day!
-<img src="https://utfs.io/f/SBPlgACiEghfEpoo0Qjsn2xILZJuTvqWDSCX4VaKi9UjBFRm" style="border-radius:10px" />
